@@ -1,0 +1,12 @@
+*{padding:0;margin:0;}
+.clear{clear:both;}
+.bg{padding:20px;background:#eee;border:1px #ccc solid;}
+
+.team{padding:20px;height:80px;width:160px;border:1px #ccc solid;background:#fff;float:left;}
+.team img{height:80px;width:80px;background:#eee;float:left;}
+.team span{display:inline-block;height:80px;width:60px;float:right;}
+
+.mid{margin:0 142px 0 222px;border:1px #ccc solid;background:#fff;height:200px;padding:20px;}
+
+.teamer{padding:10px;height:400px;width:100px;border:1px #ccc solid;background:#fff;float:right;}
+.teamer img{height:80px;width:80px;background:#eee;margin:10px;}
